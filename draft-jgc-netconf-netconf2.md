@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "NETCONF 2.0"
+abbrev: "NETCONF2"
 category: info
 
 docname: draft-jgc-netconf-netconf2-latest
@@ -12,9 +12,10 @@ v: 3
 area: "Operations and Management"
 workgroup: "Network Configuration"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - netconf
+ - netconf2
+ - netconf next
+ - netconf-next
 venue:
   group: "Network Configuration"
   type: "Working Group"
@@ -25,9 +26,9 @@ venue:
 
 author:
  -
-    fullname: "JGC"
-    organization: Your Organization Here
-    email: "jgcumming@users.noreply.github.com"
+    fullname: "James Cumming"
+    organization: "Nokia"
+    email: "james.cumming@nokia.com"
 
 normative:
 
