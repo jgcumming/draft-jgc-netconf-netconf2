@@ -38,13 +38,13 @@ informative:
 --- abstract
 
 The Network Configuration Protocol version 2.0 (NETCONF2) defined 
-in this document provides mechanisms to install, manipulate, and 
-delete the configuration of network devices as well as mechanisms
-to stream YANG modelled data.  It provides for flexible data 
-encoding options for all data and protocol messages.  
-The NETCONF protocol operations are realized as messages, 
-remote procedure calls (RPCs) and notifications.  
-This document obsoletes RFC 6241.
+  in this document provides mechanisms to install, manipulate, and 
+  delete the configuration of network devices as well as mechanisms
+  to stream YANG modelled data.  It provides for flexible data 
+  encoding options for all data and protocol messages.  
+  The NETCONF protocol operations are realized as messages, 
+  remote procedure calls (RPCs) and notifications.  
+  This document obsoletes RFC 6241.
 
 
 --- middle
