@@ -1,6 +1,6 @@
-# TODO - Your title
+# NETCONF 2.0
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "NETCONF 2.0".
 
 * [Editor's Copy](https://jgcumming.github.io/draft-jgc-netconf-netconf2/#go.draft-jgc-netconf-netconf2.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-jgc-netconf-netconf2)
