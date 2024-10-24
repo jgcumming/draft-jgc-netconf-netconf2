@@ -3,7 +3,7 @@ title: "NETCONF 2.0"
 abbrev: "NETCONF2"
 category: standards
 
-docname: draft-jgc-netconf-netconf2-latest
+docname: draft-jgc-netconf-netconf2-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
