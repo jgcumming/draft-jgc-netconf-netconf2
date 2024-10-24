@@ -1,7 +1,7 @@
 ---
 title: "NETCONF 2.0"
 abbrev: "NETCONF2"
-category: standard
+category: std
 
 docname: draft-jgc-netconf-netconf2-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
